@@ -1,0 +1,66 @@
+pageUIs/nopCommerce/admin/AdminBasePageUI.java
+ pageUIs.nopCommerce.admin.AdminBasePageUI
+commons/GlobalConstants.java
+ commons.GlobalConstants
+pageObjects/nopCommerce/user/UserLoginPageObject.java
+ pageObjects.nopCommerce.user.UserLoginPageObject
+pageUIs/nopCommerce/user/SearchPageUI.java
+ pageUIs.nopCommerce.user.SearchPageUI
+commons/ReportNGListener.java
+ commons.ReportNGListener
+pageObjects/nopCommerce/user/UserRegisterPageObject.java
+ pageObjects.nopCommerce.user.UserRegisterPageObject
+pageObjects/nopCommerce/user/UserShippingReturnPageObject.java
+ pageObjects.nopCommerce.user.UserShippingReturnPageObject
+reportConfig/ExtentManager.java
+ reportConfig.ExtentManager
+pageObjects/nopCommerce/user/UserSearchPageObject.java
+ pageObjects.nopCommerce.user.UserSearchPageObject
+pageObjects/nopCommerce/user/UserWishlistPageObject.java
+ pageObjects.nopCommerce.user.UserWishlistPageObject
+pageObjects/nopCommerce/user/UserMyAccountFooterPageObject.java
+ pageObjects.nopCommerce.user.UserMyAccountFooterPageObject
+reportConfig/ExtentTestManager.java
+ reportConfig.ExtentTestManager
+commons/MethodListener.java
+ commons.MethodListener
+commons/BasePage.java
+ commons.BasePage
+ commons.BasePage$1
+ commons.BasePage$2
+pageObject/nopCommerce/admin/AdminLoginPageObject.java
+ pageObject.nopCommerce.admin.AdminLoginPageObject
+utilities/DataHelper.java
+ utilities.DataHelper
+pageUIs/nopCommerce/admin/AdminDashboardPageUIs.java
+ pageUIs.nopCommerce.admin.AdminDashboardPageUIs
+pageObjects/nopCommerce/user/UserShoppingCartPageObject.java
+ pageObjects.nopCommerce.user.UserShoppingCartPageObject
+pageUIs/nopCommerce/user/HomePageUI.java
+ pageUIs.nopCommerce.user.HomePageUI
+pageUIs/nopCommerce/user/LoginPageUI.java
+ pageUIs.nopCommerce.user.LoginPageUI
+pageUIs/nopCommerce/user/MyAccountPageUI.java
+ pageUIs.nopCommerce.user.MyAccountPageUI
+pageObjects/nopCommerce/user/UserSitemapPageObject.java
+ pageObjects.nopCommerce.user.UserSitemapPageObject
+pageObject/nopCommerce/admin/AdminDashboardPageObject.java
+ pageObject.nopCommerce.admin.AdminDashboardPageObject
+pageObjects/nopCommerce/user/UserHomePageObject.java
+ pageObjects.nopCommerce.user.UserHomePageObject
+pageUIs/nopCommerce/user/RegisterPageUI.java
+ pageUIs.nopCommerce.user.RegisterPageUI
+reportConfig/ExtentTestListener.java
+ reportConfig.ExtentTestListener
+commons/NopCommercePageGeneratorManager.java
+ commons.NopCommercePageGeneratorManager
+commons/BaseTest.java
+ commons.BaseTest
+commons/VerificationFailures.java
+ commons.VerificationFailures
+pageObjects/nopCommerce/user/UserMyAccountPageObject.java
+ pageObjects.nopCommerce.user.UserMyAccountPageObject
+pageUIs/nopCommerce/user/UserBasePageUI.java
+ pageUIs.nopCommerce.user.UserBasePageUI
+commons/TestNGAppender.java
+ commons.TestNGAppender
